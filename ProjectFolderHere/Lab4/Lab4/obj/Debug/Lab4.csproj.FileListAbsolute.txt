@@ -1,0 +1,9 @@
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\rbere\Desktop\K-State\CIS 300\Labs\Lab 4\Lab4\Lab4\obj\Debug\Lab4.pdb
